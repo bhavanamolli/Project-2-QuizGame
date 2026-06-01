@@ -1,1 +1,1 @@
-# Project2(Quiz Game)
+# Project2(QuizGame)
